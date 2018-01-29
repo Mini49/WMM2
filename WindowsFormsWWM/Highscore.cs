@@ -24,6 +24,7 @@ namespace WindowsFormsWWM
         {
             sg.Visible = true;
             this.Close();
+//kommentar
         }
     }
 }
